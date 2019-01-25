@@ -4,10 +4,10 @@ This project used passport authentication extension.
 
 **Installation** 
 
-composer install
-cp .env.example .env
-Set mysql options in .env file
-php artisan migrate
-php artisan key:generate
-php artisan passport:install
-php artisan db:seed
+composer install<br />
+cp .env.example .env<br />
+Set mysql options in .env file<br />
+php artisan migrate<br />
+php artisan key:generate<br />
+php artisan passport:install<br />
+php artisan db:seed<br />
